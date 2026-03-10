@@ -10,6 +10,7 @@
 {
   "current": {
     "storefront_hostname": "memoryspud.com",
+    "custom_redirects": "/account/login > /login\n/account/register > /register\n/account/reset > /reset-password\n/account/activate > /activate-account",
     "integrate_with_customer_accounts": true,
     "content_for_index": []
   }
